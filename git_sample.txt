@@ -1,1 +1,1 @@
-"sample git text" 
+Im creating git for the first time
